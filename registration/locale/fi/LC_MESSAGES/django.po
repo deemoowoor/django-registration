@@ -20,72 +20,76 @@ msgstr ""
 
 #: admin.py:23
 msgid "Activate users"
-msgstr ""
+msgstr "Aktivoi käyttäjät"
 
 #: admin.py:43
 msgid "Re-send activation emails"
-msgstr ""
+msgstr "Lähetä uudelleen aktivointi sähköpostiin"
 
 #: forms.py:35
 msgid "Username"
-msgstr ""
+msgstr "Käyttäjätunnus"
 
 #: forms.py:36
 msgid "This value may contain only letters, numbers and @/./+/-/_ characters."
-msgstr ""
+msgstr "Tämä arvo voi sisältää vain kirjaimia, numeroita ja @ /. / + / - / _ merkkejä"
 
 #: forms.py:38
 msgid "E-mail"
-msgstr ""
+msgstr "Sähköposti"
 
 #: forms.py:40
 msgid "Password"
-msgstr ""
+msgstr "Salasana"
 
 #: forms.py:42
 msgid "Password (again)"
-msgstr ""
+msgstr "Salasana (uudelleen)"
 
 #: forms.py:52
 msgid "A user with that username already exists."
-msgstr ""
+msgstr "Tämä käyttäjätunnus on jo olemassa"
 
 #: forms.py:66
 msgid "The two password fields didn't match."
-msgstr ""
+msgstr "Nämä kaksi salasana kentät eivät täsmää"
 
 #: forms.py:77
 msgid "I have read and agree to the Terms of Service"
-msgstr ""
+msgstr "Olen lukenut ja hyväksyn käyttöehdot"
 
 #: forms.py:78
 msgid "You must agree to the terms to register"
-msgstr ""
+msgstr "Sinun on hyväksyttävä ehdot, että rekisteröityä"
 
 #: forms.py:94
 msgid ""
 "This email address is already in use. Please supply a different email "
 "address."
 msgstr ""
+"Tämä sähköpostiosoite on jo käytössä. Ole hyvä ja toimittaa eri email "
+"osoite."
 
 #: forms.py:122
 msgid ""
 "Registration using free email addresses is prohibited. Please supply a "
 "different email address."
 msgstr ""
+"Rekisteröinti vapaalla sähköpostiosoitteella on kielletty. Toimittakaa "
+"toinen sähköpostiosoite"
 
 #: models.py:183
 msgid "user"
-msgstr ""
+msgstr "käyttäjä"
 
 #: models.py:184
 msgid "activation key"
-msgstr ""
+msgstr "aktivointi"
 
 #: models.py:189
 msgid "registration profile"
-msgstr ""
+msgstr "rekisteröinti profiili"
 
 #: models.py:190
 msgid "registration profiles"
-msgstr ""
+msgstr "rekisteröinti profiilit"
